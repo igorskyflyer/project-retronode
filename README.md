@@ -18,4 +18,11 @@
 
 RetroNode serves as a documentation of my efforts to preserve compatibility, allowing fellow developers to understand the considerations and strategies taken to ensure smooth integration. While the project itself may not actively perform technical tasks, it stands as a guiding principle and commitment to the community.
 
+<br>
+
+## 🍒 Picked projects
+
+<br>
+<br>
+
 Join me on this modest but crucial journey as we uphold the value of legacy code while embracing the advancements of ES modules. Together, we create a reliable and cohesive ecosystem that fosters accessibility and ease of use for all developers relying on these npm modules. Let's make JavaScript development a seamless experience for everyone! 🚀
